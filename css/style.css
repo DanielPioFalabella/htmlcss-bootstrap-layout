@@ -1,0 +1,31 @@
+.bg-dirty-white {
+    background-color: whitesmoke;
+}
+
+.bg-grey {
+    background-color: grey;
+}
+
+.bg-light-blu {
+    background-color: rgb(40, 230, 255);
+}
+
+.bg-yellow {
+    background-color: rgb(255, 248, 34);
+}
+
+.bg-black {
+    background-color: rgb(0, 0, 0);
+}
+
+.bg-blu {
+    background-color: rgb(0, 85, 255);
+}
+
+.bg-red {
+    background-color: rgb(219, 59, 59);
+}
+
+.bg-green {
+    background-color: rgb(12, 180, 74);
+}
